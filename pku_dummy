@@ -1,1 +1,5 @@
 just a dummy pku file
+total 12
+-rwxr-----. 1 pku unixadm 591 Nov  7 18:47 lorem.txt
+-rw-r-----. 1 pku unixadm  22 Nov  7 19:03 pku_dummy
+-rw-r-----. 1 pku unixadm   9 Nov  7 18:41 README.md
